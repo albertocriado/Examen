@@ -1,3 +1,4 @@
+package codigo;
 
 public class Material {
 	int catidadEnAlmacen=0;

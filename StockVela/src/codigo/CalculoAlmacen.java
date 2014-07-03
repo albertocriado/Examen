@@ -1,3 +1,5 @@
+package codigo;
+
 
 public class CalculoAlmacen {
 	Material[] materialAlmacen1=new Material[10];
@@ -16,7 +18,7 @@ public class CalculoAlmacen {
 	
 	public int calcularTotalAlmacen1(){
 		int total=0;
-		for(int i=0;i<materialAlmacen2.length;i++)
+		for(int i=0;i<materialAlmacen1.length;i++)
 		{
 			total=materialAlmacen2[i].catidadEnAlmacen+total;
 		}
