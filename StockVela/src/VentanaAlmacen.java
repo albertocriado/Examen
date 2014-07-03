@@ -6,9 +6,9 @@ public class VentanaAlmacen {
 		
 		//Anyadimos varias llantas
 		almacenCalc.anyadirLlantaAlmacen1(0);
-		almacenCalc.anyadirLlantaAlmacen1(0);
+		almacenCalc.anyadirLlantaAlmacen2(0);
 		almacenCalc.anyadirLlantaAlmacen1(1);
-		almacenCalc.anyadirLlantaAlmacen1(2);
+		almacenCalc.anyadirLlantaAlmacen2(2);
 		
 		for(int i=0;i<10;i++)
 			almacenCalc.anyadirLlantaAlmacen2(0);
